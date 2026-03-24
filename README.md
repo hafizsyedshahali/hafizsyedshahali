@@ -6,10 +6,10 @@ I'm an **AI Automation Engineer** who bridges the gap between complex data scien
 
 ##  What I Do
 
-*   **🤖 Intelligent Automation:** Building data-driven n8n workflows that do more than just move data—they process, analyze, and act on it.
-*   **📊 Data Engineering & Analysis:** Using Python (Pandas, NumPy) to clean, transform, and extract insights from business data inside Jupyter Notebooks.
-*   **💬 AI-Powered Chatbots:** Developing context-aware agents with Botpress and custom AI models that understand user intent.
-*   **🔧 Custom Extensions:** Creating bespoke browser and application extensions to streamline and automate specific user workflows.
+*   ** Intelligent Automation:** Building data-driven n8n workflows that do more than just move data—they process, analyze, and act on it.
+*   ** Data Engineering & Analysis:** Using Python (Pandas, NumPy) to clean, transform, and extract insights from business data inside Jupyter Notebooks.
+*   ** AI-Powered Chatbots:** Developing context-aware agents with Botpress and custom AI models that understand user intent.
+*   ** Custom Extensions:** Creating bespoke browser and application extensions to streamline and automate specific user workflows.
 
 ##  My Tech Stack
 
